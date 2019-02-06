@@ -1,0 +1,87 @@
+Jack Kufa
+Section 1F
+
+1. How to buy a snickers from a vending machine:
+  Retrieve wallet from pocket then open it to check if there is sufficient funds
+      If wallet contains no $0.5, $0.10, $0.25, $1, $5, $10, or $20, cancel the operation
+      If wallet does contain $0.5, $0.10, $0.25, $1, $5, $10, or $20 check to see if the amount of money is greater than or equal to the price of a snickers
+          If amount of money is less than the amount needed to purchase a snickers, then cancel the operation
+          If amount of money is greater than or equal to the amount needed to purchase a snickers, then proceed with the operation
+  Place sufficient funds into vending machine
+      If the vending machine rejects dollar bills, then flatten out dollar bill and put it back in
+      If vending machine rejects dollar bill, try using a different bill instead
+  Locate the numpad combination for a snickers bar
+  Once numpad combination for a snickers is located, begin pressing combination into the numpad
+      If an incorrect unit is pressed, cancel and type in numbers again
+  After correct combination is pressed, hit enter
+  If snickers falls down, then retrieve the candy bar
+      If money greater than the amount needed to purchase a snickers is used, retrieve change
+  If snickers bar gets stuck in the vending machine, bang on the vending machine
+  If snickers bar is still stuck, restart from the beginning of the algorithm
+
+2. How to progress through a maze from start to finish:
+    From the starting point, hug the right-hand wall until an exit is located
+    If exit is found, maze is completed
+    If (somehow) no exit is located, follow the right-hand wall until the starting point is located, then try again
+
+3. How to find all words in a 18x19 word search:
+  In row 1, 1x1 through 18x1, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 2
+      If no word is located, proceed to row 2
+  In row 2, 1x2 through 18x2, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 3
+      If no word is located, proceed to row 3
+  In row 3, 1x3 through 18x3, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 4
+      If no word is located, proceed to row 4
+  In row 4, 1x4 through 18x4, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 5
+      If no word is located, proceed to row 5
+  In row 5, 1x5 through 18x5, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 6
+      If no word is located, proceed to row 6
+  In row 6, 1x6 through 18x6, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 7
+      If no word is located, proceed to row 7
+  In row 7, 1x7 through 18x7, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 8
+      If no word is located, proceed to row 8
+  In row 8, 1x8 through 18x8, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 9
+      If no word is located, proceed to row 9
+  In row 9, 1x9 through 18x9, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 10
+      If no word is located, proceed to row 10
+  In row 10, 1x10 through 18x10, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 11
+      If no word is located, proceed to row 11
+  In row 11, 1x11 through 18x11, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 12
+      If no word is located, proceed to row 12
+  In row 12, 1x12 through 18x12, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 13
+      If no word is located, proceed to row 13
+  In row 13, 1x13 through 18x13, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 14
+      If no word is located, proceed to row 14
+  In row 14, 1x14 through 18x14, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 15
+      If no word is located, proceed to row 15
+  In row 15, 1x15 through 18x15, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 16
+      If no word is located, proceed to row 16
+  In row 16, 1x16 through 18x16, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 17
+      If no word is located, proceed to row 17
+  In row 17, 1x17 through 18x17, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 18
+      If no word is located, proceed to row 18
+  In row 18, 1x18 through 18x18, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it, cross out the corresponding word in the word search, then proceed to row 19
+      If no word is located, proceed to row 19
+  In row 19, 1x19 through 18x19, search for word from the left, right, up, down, and all for diagonal directions
+      If word is located, circle it
+      If no word is located, proceed to next step
+  Check word search and see if all words have been crossed out
+      If all words have in fact been crossed out, then word search is complete
+      If some words are missing, repeat algorithm from beginning

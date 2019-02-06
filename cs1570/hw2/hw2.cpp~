@@ -1,0 +1,29 @@
+/*
+Name: Jack Kufa
+Student ID: 12545491
+Instructor: Xiong
+Section: F
+Date: Jan/29/2018
+File: hw2.cpp
+*/
+
+//including IO stream libraries
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+  cout << "Welcome to the Aquarium Calculator!" << endl;
+  
+  int seahorse_number; //defines the number of seahorse in the aquarium
+  bool baby_seahorse; //defines whether or not the aquarium contains baby seahorses
+  
+  cout << "How many seahorses will be in your aquarium?" << endl;
+  cin >>  seashorse_number;
+  
+  cout << "Will your aquarium contain baby seahorses?(Y for yes, N for no)" << endl;
+  cin >> baby_seahorse;
+ 
+  return 0  
+}  
